@@ -27,7 +27,7 @@ def get_config_dict():
     details_dict = dict(config.items('praw-config'))
     if not hasattr(get_config_dict, 'config_dict'):
         get_config_dict.config_dict = dict(config.items('praw-config'))
-    return get_config_dict.config_dict
+    return get_config_dict.config_dict 
 
 config_details = get_config_dict()
 
