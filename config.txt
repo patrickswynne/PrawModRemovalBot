@@ -1,0 +1,5 @@
+[praw-config]
+client_id = Y44GOhKTzr52ZQ
+client_secret = Y6cWmPWFYAcOo9-BqaOD9RzjBqHBGQ
+password = I+isw0rk
+username = PatrickWynne
